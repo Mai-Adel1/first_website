@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+}
+.gr{
+    color:Tomato;
+
+}
+
+.gray{
+    color: rgb(88, 92, 98);
+}
+
+.center{
+    /* margin-left: 25%; */
+    text-align: center;
+}
+
+.pic1{
+    display: inline-block;
+}
+
+.disc{
+    display: inline-block;
+    padding: auto;
+}
+/* .space{
+height: 90px;
+
+} */
+input.text{
+    padding: 10px;
+    margin: 8px;
+    width: 300px;
+}
+
+button{
+    background-color: tomato;
+    color: white;
+    width: 330px;
+    padding-top: 15px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    border: none;
+}
+.img2{
+    width: 100%;
+}
